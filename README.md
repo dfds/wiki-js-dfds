@@ -406,11 +406,11 @@ Thank you to all our patrons! 🙏 [[Become a patron](https://www.patreon.com/re
 - Ian
 - Imari Childress
 - Iskander Callos
+- Josh Stewart
   
 </td><td>
 <img width="441" height="1" />
 
-- Josh Stewart
 - Justin Dunsworth
 - Keir
 - Loïc CRAMPON
@@ -425,9 +425,11 @@ Thank you to all our patrons! 🙏 [[Become a patron](https://www.patreon.com/re
 - Tracey Duffy
 - Quaxim
 - Richeir
+- Sergio Navarro Fernández
 - Shad Narcher
 - SmartNET.works
 - Stepan Sokolovskyi
+- Zach Crawford
 - Zach Maynard
 - 张白驹
 
